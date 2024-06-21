@@ -6,5 +6,5 @@
 
 
 
-<img src="https://github.com/Rifala/anem.ai/blob/main/InShot_20240621_074931528.gif">
+<img src="https://github.com/Rifala/anem.ai/blob/main/InShot_20240621_074931528.gif" width="184" height="654"/>
 
