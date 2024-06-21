@@ -7,7 +7,7 @@ By creating this app we hope that this app can raise people's awareness about an
 
 ## **Wanna try our app?**
 1. Make sure your phone's android version is above Android 7.0 (Nougat)
-2. You can download .apk file from this repository release section, or using this link.
+2. You can download .apk file from this repository release section, or using this ![link](https://drive.google.com/file/d/1TA8vNsGy6DYQ1Bw7a8ZGK3vVT-I6va-l/view?usp=sharing).
 3. In order to use anemia detection, you need to give camera permission.
 4. You also need to turn on your internet connection to use the app.
 
