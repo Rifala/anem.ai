@@ -1,11 +1,11 @@
 <img src="https://github.com/Rifala/anem.ai/blob/main/logo_launcher_anem_ai_horizontal.png"/>
 
-## **What is Anem.ai?**
+## **What is Anem.ai?**:eyes:
 Anem.ai is an app to detect anemia based on the user's conjunctiva. Anemia is a condition in which the body has fewer red blood cells than normal or lower than usual.
 Based on data from the Indonesian Ministry of Health in 2023, the prevalence of anemia according to gender is 14,4% for men and 18% for women.
 By creating this app we hope that this app can raise people's awareness about anemia.
 
-## **Wanna try our app?**
+## **Wanna try our app?**:sparkles:
 1. Make sure your phone's android version is above Android 7.0 (Nougat)
 2. You can download .apk file from this repository release section, or using this [link](https://drive.google.com/file/d/1TA8vNsGy6DYQ1Bw7a8ZGK3vVT-I6va-l/view?usp=sharing).
 3. In order to use anemia detection, you need to give camera permission.
