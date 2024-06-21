@@ -1,4 +1,4 @@
-# **Anem.ai**
+<img src="https://github.com/Rifala/anem.ai/blob/main/logo_launcher_anem_ai_horizontal.png"/>
 
 ## **What is Anem.ai?**
 Anem.ai is an app to detect anemia based on the user's conjunctiva. Anemia is a condition in which the body has fewer red blood cells than normal or lower than usual.
