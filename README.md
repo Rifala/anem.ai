@@ -12,7 +12,7 @@ By creating this app we hope that this app can raise people's awareness about an
 4. You also need to turn on your internet connection to use the app.
 
 ## **Preview**
-###**Welcome Page**
+### **Welcome Page**
 <img src="https://github.com/Rifala/anem.ai/blob/main/InShot_20240621_080337187.gif" height="554"/>
 
 ### **Detection**
